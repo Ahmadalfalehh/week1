@@ -1,1 +1,1 @@
-# week1
+C++ Intro Assignments - Hello World, Input/Output, Menu, Functions
